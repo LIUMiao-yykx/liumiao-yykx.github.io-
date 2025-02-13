@@ -1,6 +1,6 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title": "我的个人博客",
+    "subTitle": "记录我的学习和成长",
+    "avatarUrl": "https://example.com/my-avatar.png",
+    "version": "1.0.0"
 }
