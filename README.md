@@ -14,5 +14,5 @@
 
 ## 联系我
 
-- 邮箱: example@example.com
+- 邮箱: yykxlucky@yeah.net.com
 - GitHub: [LIUMiao-yykx](https://github.com/LIUMiao-yykx)
